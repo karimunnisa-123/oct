@@ -1,0 +1,51 @@
+──────────────────────────────────────────────
+✨ PROJECT NAME:  NoteNexus – Study Smarter Together ✨
+──────────────────────────────────────────────
+
+📘 ABOUT:
+NoteNexus is a smart web-based platform designed for students to upload,
+share, and access study materials, notes, and question papers — all organized 
+by subject and semester. It’s built with simplicity, collaboration, and 
+student productivity in mind.
+
+──────────────────────────────────────────────
+🚀 KEY FEATURES:
+──────────────────────────────────────────────
+1️⃣ Upload & Download Study Notes  
+2️⃣ Search Notes by Department and Semester  
+3️⃣ Organized Subject-Wise Access  
+4️⃣ User-Friendly Interface for Easy Sharing  
+5️⃣ Built using Maven, Docker, Jenkins (CI/CD Integrated)
+
+──────────────────────────────────────────────
+🧠 TECH STACK:
+──────────────────────────────────────────────
+💻 Frontend : HTML, CSS, JavaScript  
+⚙️ Backend  : Java (Servlets, JSP)  
+🧱 Database : MySQL  
+🐳 DevOps   : Docker, Jenkins  
+🌐 Version  : Git & GitHub Integration  
+
+──────────────────────────────────────────────
+🌟 WHY IT’S SPECIAL:
+──────────────────────────────────────────────
+✅ Encourages knowledge sharing among students  
+✅ Makes study materials easy to find  
+✅ Implements real-world DevOps tools  
+✅ Demonstrates CI/CD pipeline integration  
+✅ Perfect for academic and university use
+
+──────────────────────────────────────────────
+👩‍💻 DEVELOPED BY:
+──────────────────────────────────────────────
+💫 Sana Shaik  
+B.Tech – Computer Science (AI & ML)  
+Driven by passion for innovation, learning, and ethical technology.
+
+──────────────────────────────────────────────
+🕊️ MOTIVATION:
+──────────────────────────────────────────────
+"Knowledge increases by sharing — not by saving."  
+Let’s build smarter ways to learn together 🌍
+
+──────────────────────────────────────────────
